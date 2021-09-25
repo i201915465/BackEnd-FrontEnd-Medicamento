@@ -24,5 +24,4 @@ public class MedicamentoServiceImpl implements MedicamentoService{
 		return repository.save(obj);
 	}
 	
-
 }

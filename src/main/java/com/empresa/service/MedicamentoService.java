@@ -8,5 +8,5 @@ public interface MedicamentoService {
 	
 	public List<Medicamento> listaMedicamento();
 	public Medicamento insertaMedicamento(Medicamento obj);
-
+	
 }

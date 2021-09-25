@@ -49,5 +49,4 @@ public class Medicamento {
 		this.laboratorio = laboratorio;
 	}
 	
-	
 }
